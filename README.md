@@ -1,7 +1,12 @@
 # 🖥️ Flávio Couto de Matos
-Depois de muitos anos correndo trabalhando só pelo dinheiro agora estou atrás de um sonho antigo que é de trabalhar com TI, na tentativa de unir algo que me inspira, que me motiva como sendo meu ganha pão. Formei em administração, tenho um MBA em gestão de projetos e agora no final de 2023 me formei em análise e desenvolvimento de sistemas. Fiz uma reserva financeira e tomei a decisão de largar meu emprego para poder focar exclusivamente nos estudos por pelo menos uns 6 meses ou até conseguir fazer essa virada de chave.
+Depois de muitos anos trabalhando meio sem sentido, mais pelo dinheiro, tive coragem e agora estou atrás de um sonho antigo que é de trabalhar com TI, na tentativa de unir algo que me inspira, que me traz motivação com meu sustento.
+Formei em administração, tenho um MBA em gestão de projetos eme formei agora no final de 2023 em análise e desenvolvimento de sistemas.
+Larguei meu emprego para poder focar nos estudos até conseguir fazer essa virada de chave e conseguir minha primeira vaga de emprego na área.
+Aceito inclusive ofertas de trabalho voluntário para poder adquirir experiência.
 
-Atualmente focado nos estudos de ciência e análise de dados.
+Já estudei algumas outras coisas na área de programação mas atualmente focado e seguindo nos estudos de ciência e análise de dados.
+
+#AnáliseDeDados #Python #R #Pandas
 
 ## 🧩 Conecte-se comigo
 
