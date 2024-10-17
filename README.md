@@ -1,6 +1,6 @@
 # 🖥️ Flávio Couto de Matos
-Depois de muitos anos trabalhando meio sem sentido, mais pelo dinheiro, tive coragem e agora estou atrás de um sonho antigo que é de trabalhar com TI, na tentativa de unir algo que me inspira, que me traz motivação com meu sustento.
-Formei em administração, tenho um MBA em gestão de projetos eme formei agora no final de 2023 em análise e desenvolvimento de sistemas.
+Depois de muitos anos trabalhando com Departamento Pessoal, criei coragem e agora estou atrás de um sonho antigo que é de trabalhar com TI. Tentando  de unir algo que me inspira, que me traz motivação com meu sustento
+Formei em administração, tenho um MBA em gestão de projetos e me formei agora no final de 2023 em análise e desenvolvimento de sistemas.
 Larguei meu emprego para poder focar nos estudos até conseguir fazer essa virada de chave e conseguir minha primeira vaga de emprego na área.
 Aceito inclusive ofertas de trabalho voluntário para poder adquirir experiência.
 
